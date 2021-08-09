@@ -15,13 +15,13 @@ namespace Dojodachi.Models
     {
       return Happiness;
     }
-    public int Feed()
+    public int Work()
     {
-      return Fullness;
+      return Energy;
     }
-    public int Feed()
+    public int Sleep()
     {
-      return Fullness;
+      return Energy;
     }
   }
 }
